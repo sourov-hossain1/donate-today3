@@ -1,0 +1,178 @@
+/* header styles */
+.top-site{
+   background-image: url('images/donation6.jpg');
+    padding: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-site-content{
+    text-align: center;
+}
+.para{
+    padding: 15px;
+    color: white;
+}
+.btn-style{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.top-title{
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+/* main one style */
+.main-one{
+    text-align: center;
+    margin: 0px 260px;
+    padding-top: 50px;
+}
+.one-box-parent{
+    display: flex;
+}
+.one-box{
+    padding-right: 110px;
+}
+.two-box, .three-box, .four-box{
+    padding-right: 100px;
+}
+.five-box{
+    padding-right: 0px;
+}
+.one-title{
+    font-size: 45px;
+}
+.one-para{
+    color: gray;
+    padding-bottom: 20px;
+}
+.main-last{
+    padding-top: 30px;
+}
+.main-one-btn{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.main-end{
+    padding-top: 20px;
+}
+/* main two styles */
+.main-two-content{
+    text-align: center;
+}
+.box1{
+    width: 20%;
+    height: 200px;
+    background: rgba(255, 183, 0, 0.779);
+    padding-right: 20px;
+    border: 2px solid;
+}
+.box2{
+    width: 20%;
+    height: 200px;
+    background: rgba(255, 183, 0, 0.779);
+    border: 2px solid;
+}
+.box3{
+    width: 20%;
+    height: 200px;
+    background: rgba(255, 183, 0, 0.779);
+    border: 2px solid;
+}
+.all-box{
+   display: flex;
+   padding: 12px 0px 12px 300px;
+   gap: 25px;
+}
+.two-title{
+    padding-top: 45px;
+    font-weight: 700;
+    font-size: 50px;
+}
+.two-para{
+    color: gray;
+    padding-bottom: 20px;
+}
+/* main three styles */
+.main-three{
+    display: flex;
+    padding: 80px;
+    gap: 60px;
+}
+.three-title{
+    font-weight: 700;
+    font-size: 50px;
+}
+.main-three-btn{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.three-para{
+    padding-bottom: 35px;
+}
+/* main  four styles */
+.main-four{
+    display: flex;
+    padding: 80px;
+    gap: 60px;
+}
+.four-title{
+    font-weight: 700;
+    font-size: 50px;
+}
+.main-four-btn{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+/* main five styles */
+.last-div-one{
+    text-align: center;
+}
+.last-title{
+    font-weight: 700;
+    font-size: 50px;
+}
+.last-div-two{
+   text-align: center;
+   background-color: coral;
+   height: 120px;
+   margin: 0px 200px;
+   padding-top: 80px;
+}
+.last-btn{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+/* finall */
+.final-div{
+    text-align: center;
+    background: rgba(0, 0, 0, 0.722);
+    color: white;
+  margin: 30px 0px 0px 0px;
+  padding: 10px;
+}
